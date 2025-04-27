@@ -1,4 +1,5 @@
 **Movie Finder** 🎥
+
 Find your next favorite movie with Movie Finder! This web application allows users to effortlessly search for movies, browse trending titles, and get personalized results based on their search queries.
 Key Features 🌟
 - Search Movies: Enter a movie title to instantly fetch results from The Movie Database (TMDB) API.
